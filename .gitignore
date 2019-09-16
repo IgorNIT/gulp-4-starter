@@ -1,0 +1,13 @@
+design/
+build/*
+
+node_modules/
+package-lock.json
+.vscode/
+.publish/
+.DS_Store
+*.log
+*.sublime-*
+*.rar
+*.zip
+.idea

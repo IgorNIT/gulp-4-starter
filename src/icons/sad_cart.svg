@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="214mm"
+   height="265mm"
+   viewBox="0 0 214 265"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="sad_cart.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-1119.4419"
+     inkscape:cy="-401.21387"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-32)">
+    <g
+       id="g821"
+       transform="matrix(6.010666,0,0,6.3642314,7.8511084,29.284775)"
+       style="fill-rule:evenodd">
+      <path
+         id="path815"
+         d="M 3.986,12.31 2.028,37.853 c -0.071,0.927 0.593,1.645 1.514,1.645 l 26.463,-0.019 c 0.936,0 1.639,-0.74 1.595,-1.676 L 30.41,12.28 C 30.366,11.308 29.533,10.513 28.564,10.513 H 5.916 c -0.973,0 -1.855,0.818 -1.93,1.799 z M 1.992,12.158 C 2.147,10.136 3.896,8.512 5.916,8.512 h 22.648 c 2.038,0 3.75,1.635 3.845,3.674 l 1.19,25.523 a 3.572,3.572 0 0 1 -3.592,3.77 L 3.543,41.497 c -2.087,10e-4 -3.67,-1.71 -3.51,-3.797 z"
+         inkscape:connector-curvature="0"
+         style="fill-rule:nonzero" />
+      <path
+         id="path817"
+         d="m 9.95,18.333 c 1.502,0 2.719,-1.236 2.719,-2.762 0,-1.525 -1.217,-2.761 -2.719,-2.761 -1.5,0 -2.718,1.236 -2.718,2.761 0,1.526 1.217,2.762 2.718,2.762 z m 14.868,-0.089 c 1.501,0 2.718,-1.237 2.718,-2.762 0,-1.526 -1.217,-2.762 -2.718,-2.762 -1.502,0 -2.719,1.236 -2.719,2.762 0,1.525 1.217,2.762 2.719,2.762 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path819"
+         d="M 10.875,16.095 V 8.223 c 0,-3.077 2.66,-5.476 6.35,-5.476 3.684,0 6.349,2.407 6.349,5.476 v 7.872 h 2 V 8.223 c 0,-4.223 -3.604,-7.476 -8.35,-7.476 -4.75,0 -8.35,3.246 -8.35,7.476 v 7.872 h 2 z"
+         inkscape:connector-curvature="0"
+         style="fill-rule:nonzero" />
+    </g>
+    <g
+       id="g905"
+       transform="matrix(4.438094,0,0,4.2073528,28.384941,134.65108)">
+      <g
+         id="g846"
+         transform="matrix(1.346837,0,0,1.2318048,-3.5316606,-4.7218523)">
+        <circle
+           id="circle840"
+           r="2.125"
+           cy="11.93"
+           cx="11.702" />
+        <circle
+           id="circle842"
+           r="2.125"
+           cy="11.93"
+           cx="21.827" />
+        <path
+           id="path844"
+           d="m 10.326,23.918 c -0.09,0 -0.18,-0.024 -0.262,-0.074 -0.235,-0.146 -0.308,-0.453 -0.163,-0.688 1.429,-2.314 3.905,-3.696 6.623,-3.696 2.679,0 5.136,1.352 6.572,3.615 0.148,0.233 0.079,0.542 -0.154,0.689 -0.234,0.147 -0.542,0.08 -0.69,-0.154 -1.251,-1.973 -3.393,-3.15 -5.727,-3.15 -2.368,0 -4.526,1.204 -5.772,3.222 -0.095,0.152 -0.259,0.236 -0.427,0.236 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g848" />
+      <g
+         id="g850" />
+      <g
+         id="g852" />
+      <g
+         id="g854" />
+      <g
+         id="g856" />
+      <g
+         id="g858" />
+      <g
+         id="g860" />
+      <g
+         id="g862" />
+      <g
+         id="g864" />
+      <g
+         id="g866" />
+      <g
+         id="g868" />
+      <g
+         id="g870" />
+      <g
+         id="g872" />
+      <g
+         id="g874" />
+      <g
+         id="g876" />
+    </g>
+  </g>
+</svg>
